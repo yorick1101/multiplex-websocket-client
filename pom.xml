@@ -41,6 +41,10 @@
 			<artifactId>netty-all</artifactId>
 			<version>4.1.32.Final</version>
 		</dependency>
-
+		<dependency>
+  			<groupId>me.yorick</groupId>
+  			<artifactId>rabbitmq-pattern</artifactId>
+  			<version>1.0.0.20191120.142839-1</version>
+		</dependency>
 	</dependencies>
 </project>
